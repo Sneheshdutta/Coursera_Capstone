@@ -1,1 +1,1 @@
-# This notebook will be mainly used for the Coursera capstone project.
+# This repo will be mainly used for the Coursera capstone project.
